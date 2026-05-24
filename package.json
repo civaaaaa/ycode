@@ -19,7 +19,7 @@
     "supabase"
   ],
   "engines": {
-    "node": ">=18"
+    "node": ">=20.9.0"
   },
   "scripts": {
     "dev": "next dev -p 3002",
